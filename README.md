@@ -80,7 +80,7 @@ Every project teaches you something new — from debugging to using libraries.
 
 ---
 
-🌱 Step 7: Stay Consistent and Keep Learning
+🌱 Step 6: Stay Consistent and Keep Learning
 
 Coding is not a race — it’s a journey.
 The key is consistency. Even slow progress is progress.
